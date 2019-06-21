@@ -13,9 +13,9 @@
 # WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 # See the License for the specific language governing permissions and
 # limitations under the License.
-#
+#BASICNyx
 # LICENSE@@@
-
+13/05/23
 # .gitignore for components that enforce "out-of-source" builds, (e.g. ones that
 # use "cmake-modules-webos")
 #
